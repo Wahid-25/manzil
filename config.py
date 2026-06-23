@@ -1,0 +1,21 @@
+APP_TITLE   = "Manzil"
+APP_VERSION = "1.0"
+DB_HOST     = "localhost"
+DB_USER     = "root"
+DB_PASSWORD = "wahid123"
+DB_NAME     = "manzil"
+# UI colour palette - Sunset Orange Theme
+BG_MAIN     = "#18110F"  # Deep twilight dusk
+BG_CARD     = "#241815"  # Warm shadow card
+BG_INPUT    = "#2F1F1B"  # Muted clay input field
+ACCENT      = "#FF6B35"  # Vibrant Sunset Orange
+ACCENT2     = "#FFB834"  # Warm Golden Horizon
+TEXT_LIGHT  = "#F7EDE2"  # Cream off-white
+TEXT_MUTED  = "#A88E88"  # Dusty clay rose
+DANGER      = "#E74C3C"  # Crimson red
+SUCCESS     = "#2ECC71"  # Emerald green
+WARNING     = "#F39C12"  # Golden amber
+FONT_TITLE  = ("Segoe UI", 22, "bold")
+FONT_HEADER = ("Segoe UI", 14, "bold")
+FONT_BODY   = ("Segoe UI", 11)
+FONT_SMALL  = ("Segoe UI", 9)
